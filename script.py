@@ -40,3 +40,4 @@
 # fix 9945
 # refactor 5130
 # optimize 8969
+# fix 7698
