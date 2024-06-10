@@ -1,3 +1,4 @@
 # auto-created
 aiohttp==1.7.5
 aiohttp==0.9.4
+eth-abi==0.7.5
