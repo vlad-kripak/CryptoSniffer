@@ -12,3 +12,4 @@
 - Update note 3174
 - Update note 2762
 - Update note 8970
+- Update note 7708
